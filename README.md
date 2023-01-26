@@ -25,8 +25,8 @@ End the program
 
 ## PROGRAM:
 ```
-#Developed by: Priyadharshini.P
-#Reference Number: 22008758
+#Developed by: Pooja A
+#Reference Number: 22007907
 
 num_words = 0
 with open('text.txt','r') as f1:
