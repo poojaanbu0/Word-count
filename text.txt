@@ -1,0 +1,4 @@
+this is PYTHON programming module and the title of the assignment is word count using python.
+#Developed by: Pooja.A
+#Register number: 22007907
+The Program is executed successfully
