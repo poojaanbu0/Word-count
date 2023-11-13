@@ -24,7 +24,7 @@ Print the number of words
 End the program
 
 ## PROGRAM:
-```
+```python
 #Developed by: Pooja A
 #Reference Number: 22007907
 
